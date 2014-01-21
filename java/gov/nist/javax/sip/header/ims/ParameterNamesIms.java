@@ -31,7 +31,7 @@ package gov.nist.javax.sip.header.ims;
 import gov.nist.javax.sip.address.ParameterNames;
 
 /**
- * @author ALEXANDRE MIGUEL SILVA SANTOS - Nú 10045401
+ * @author ALEXANDRE MIGUEL SILVA SANTOS - N 10045401
  */
 public interface ParameterNamesIms extends ParameterNames {
 

@@ -73,7 +73,7 @@ import javax.sip.header.Parameters;
  * eg: P-Visited-Network-ID: other.net, "Visited network number 1"
  * </pre>
  *
- * @author ALEXANDRE MIGUEL SILVA SANTOS - Nú 10045401
+ * @author ALEXANDRE MIGUEL SILVA SANTOS - Nu 10045401
  */
 
 

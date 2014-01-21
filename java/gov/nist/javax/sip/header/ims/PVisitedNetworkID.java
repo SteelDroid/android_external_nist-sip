@@ -40,7 +40,7 @@ import gov.nist.core.Token;
  * P-Visited-Network-ID SIP Private Header: RFC 3455.
  *
  *
- * @author ALEXANDRE MIGUEL SILVA SANTOS - Nú 10045401
+ * @author ALEXANDRE MIGUEL SILVA SANTOS - Nu 10045401
  */
 
 

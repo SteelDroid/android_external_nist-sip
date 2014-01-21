@@ -53,7 +53,7 @@ import javax.sip.header.HeaderAddress;
  * PPreferredID-value = name-addr / addr-spec
  * </pre>
  *
- * @author ALEXANDRE MIGUEL SILVA SANTOS - Nú 10045401
+ * @author ALEXANDRE MIGUEL SILVA SANTOS - Nu 10045401
  */
 
 

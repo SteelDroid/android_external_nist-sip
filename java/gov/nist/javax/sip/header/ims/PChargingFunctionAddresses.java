@@ -64,7 +64,7 @@ import gov.nist.javax.sip.header.ims.ParameterNamesIms;
  * <p>TODO: add PARSER support for IPv6 address.
  * eg: P-Charging-Function-Addresses: ccf=[5555.b99.c88.d77.e66]; ecf=[5555.6aa.7bb.8cc.9dd] </p>
  *
- * @author ALEXANDRE MIGUEL SILVA SANTOS - Nú 10045401
+ * @author ALEXANDRE MIGUEL SILVA SANTOS - Nu 10045401
  */
 
 

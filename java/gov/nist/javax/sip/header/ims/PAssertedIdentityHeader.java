@@ -34,7 +34,7 @@ import javax.sip.header.Header;
 import javax.sip.header.HeaderAddress;
 
 /*
- * @author ALEXANDRE MIGUEL SILVA SANTOS - Nú 10045401
+ * @author ALEXANDRE MIGUEL SILVA SANTOS - Nu 10045401
  */
 
 

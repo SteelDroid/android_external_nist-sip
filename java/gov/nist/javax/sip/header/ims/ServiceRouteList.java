@@ -31,7 +31,7 @@ package gov.nist.javax.sip.header.ims;
 import gov.nist.javax.sip.header.SIPHeaderList;
 
 /**
- * @author ALEXANDRE MIGUEL SILVA SANTOS - Nú 10045401
+ * @author ALEXANDRE MIGUEL SILVA SANTOS - Nu 10045401
  */
 
 public class ServiceRouteList extends SIPHeaderList<ServiceRoute> {

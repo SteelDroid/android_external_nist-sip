@@ -35,7 +35,7 @@ import gov.nist.javax.sip.header.ims.PVisitedNetworkIDHeader;
 /**
  * List of P-Visited-Network-ID headers.
  *
- * @author ALEXANDRE MIGUEL SILVA SANTOS - Nú 10045401
+ * @author ALEXANDRE MIGUEL SILVA SANTOS - Nu 10045401
  */
 
 public class PVisitedNetworkIDList extends SIPHeaderList<PVisitedNetworkID> {

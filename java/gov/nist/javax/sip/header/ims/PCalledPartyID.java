@@ -40,7 +40,7 @@ import gov.nist.javax.sip.header.ims.PCalledPartyIDHeader;
 /**
  * P-Called-Party-ID SIP Private Header.
  *
- * @author ALEXANDRE MIGUEL SILVA SANTOS - Nú 10045401
+ * @author ALEXANDRE MIGUEL SILVA SANTOS - Nu 10045401
  */
 
 public class PCalledPartyID

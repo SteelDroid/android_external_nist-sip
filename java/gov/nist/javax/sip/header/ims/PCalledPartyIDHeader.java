@@ -52,7 +52,7 @@ import javax.sip.header.Parameters;
  * cpid-param           = generic-param
  * </pre>
  *
- * @author ALEXANDRE MIGUEL SILVA SANTOS - Nú 10045401
+ * @author ALEXANDRE MIGUEL SILVA SANTOS - Nu 10045401
  *
  */
 

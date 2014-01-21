@@ -43,7 +43,7 @@ import gov.nist.javax.sip.header.AddressParametersHeader;
 /**
  * P-Preferred-Identity SIP Private Header - RFC 3325.
  *
- * @author ALEXANDRE MIGUEL SILVA SANTOS - Nú 10045401
+ * @author ALEXANDRE MIGUEL SILVA SANTOS - Nu 10045401
  */
 
 

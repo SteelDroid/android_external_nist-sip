@@ -39,7 +39,7 @@ import gov.nist.javax.sip.address.AddressImpl;
 /**
  * SERVICE-ROUTE header SIP param: RFC 3608.
  *
- * @author ALEXANDRE MIGUEL SILVA SANTOS - Nú 10045401
+ * @author ALEXANDRE MIGUEL SILVA SANTOS - Nu 10045401
  */
 
 

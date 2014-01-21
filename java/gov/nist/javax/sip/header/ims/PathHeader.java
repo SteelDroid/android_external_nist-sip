@@ -34,14 +34,14 @@ import javax.sip.header.HeaderAddress;
 import javax.sip.header.Parameters;
 
 /*
- * @author ALEXANDRE MIGUEL SILVA SANTOS - Nú 10045401
+ * @author ALEXANDRE MIGUEL SILVA SANTOS - Nu 10045401
  */
 
 
 /**
  * PATH header SIP param: RFC 3327.
  *
- * @author ALEXANDRE MIGUEL SILVA SANTOS - Nú 10045401
+ * @author ALEXANDRE MIGUEL SILVA SANTOS - Nu 10045401
  *
  */
 

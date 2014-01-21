@@ -43,7 +43,7 @@ import gov.nist.javax.sip.header.AddressParametersHeader;
 /**
  * P-Asserted-Identity SIP Private Header.
  *
- * @author ALEXANDRE MIGUEL SILVA SANTOS - Nú 10045401
+ * @author ALEXANDRE MIGUEL SILVA SANTOS - N 10045401
  */
 
 public class PAssertedIdentity

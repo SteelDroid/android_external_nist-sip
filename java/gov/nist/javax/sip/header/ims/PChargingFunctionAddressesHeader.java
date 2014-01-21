@@ -74,7 +74,7 @@ import java.util.ListIterator;
  *  ecf=192.1.1.3; ecf=192.1.1.4
  * </pre>
  *
- * @author ALEXANDRE MIGUEL SILVA SANTOS - Nú 10045401
+ * @author ALEXANDRE MIGUEL SILVA SANTOS - Nu 10045401
  */
 
 
