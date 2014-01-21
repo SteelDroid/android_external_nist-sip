@@ -255,8 +255,7 @@ public class PAccessNetworkInfo
         if (!parameters.isEmpty()) {
             encoding.append(SEMICOLON + SP + this.parameters.encode());
         }
-        // else if (getExtendAccessInfo() != null) // stack deve limitar, de
-        // acordo com a especificação ?
+        // else if (getExtendAccessInfo() != null)
         if (getExtensionAccessInfo() != null) {
             encoding.append(SEMICOLON + SP
                     + getExtensionAccessInfo().toString());
